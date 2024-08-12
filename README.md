@@ -56,7 +56,7 @@ The workflow performs the following key steps:
 
 Below is a visual representation of the data cleaning and processing workflow:
 
-![image](https://github.com/user-attachments/assets/a036dd76-eef4-4799-9894-c9da8f56a82c)
+![image](https://github.com/roger-sierra/data-cleaning-with-alteryx/blob/main/layoffs_data_cleansing_workflow.jpg)
 
 ## How to Run the Workflow
 

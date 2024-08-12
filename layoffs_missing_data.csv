@@ -1,0 +1,362 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised_millions
+AllyO,SF Bay Area,HR,,,2020-04-03,Series B,United States,64
+AskNicely,Portland,Support,,,2020-04-07,Series A,United States,15
+Orbit,SF Bay Area,Other,,,2022-08-12,Series A,United States,20
+Booktopia,Sydney,Retail,,,2022-06-28,Series A,Australia,23
+Alto Pharmacy,SF Bay Area,Healthcare,,,2022-07-14,Series E,United States,560
+Truepill,SF Bay Area,Healthcare,,,2022-04-14,Series D,United States,255
+Truepill,SF Bay Area,Healthcare,,,2022-09-30,Series D,United States,255
+kununu,Boston,Recruiting,,,2020-08-26,Acquired,United States,
+The Appraisal Lane,Montevideo,Transportation,,,2020-08-07,Seed,Uruguay,1.8
+The Muse,New York City,Recruiting,,,2020-04-03,Series B,United States,28
+Yapily,London,Finance,,,2022-12-01,Series A,United Kingdom,69
+Yoco,Cape Town,Finance,,,2020-04-29,Series B,South Africa,23
+StreetBees,London,Data,,,2022-12-20,Unknown,United Kingdom,63
+Aura Financial,SF Bay Area,Finance,,,2020-04-14,Unknown,United States,584
+Picnic,Seattle,Food,,,2023-02-01,Unknown,United States,52
+Skillz,SF Bay Area,Consumer,,,2022-08-29,Post-IPO,United States,287
+Catalyst,New York City,Support,,,2022-07-21,Series B,United States,45
+Aware,Columbus,Security,,,2023-01-06,Series C,United States,88
+Icertis,Seattle,Legal,,,2023-01-19,Unknown,United States,521
+Datto,Norwalk,Infrastructure,,,2020-05-12,Acquired,United States,100
+Kapten / Free Now,Paris,Transportation,,,2020-05-21,Acquired,France,100
+Fungible,SF Bay Area,Crypto,,,2022-08-29,Series C,United States,310
+TaxBit,Salt Lake City,Crypto,,,2022-12-13,Series B,United States,235
+First AML,Auckland,Finance,,,2022-10-06,Series B,New Zealand,29
+WeWork,Shenzen,Real Estate,,,2020-09-23,Series H,China,19500
+Hoxhunt,Helsinki,Security,,,2023-01-29,Series B,Finland,43
+Voly,Sydney,Food,,,2022-11-10,Seed,Australia,13
+Homebound,SF Bay Area,Real Estate,,,2022-12-02,Unknown,United States,128
+Vacasa,Portland,Travel,,,2020-03-20,Series C,United States,526
+Trade Republic,Berlin,Finance,,,2022-06-09,Series C,Germany,1200
+Alerzo,Ibadan,Retail,,,2022-09-02,Series B,Nigeria,16
+CareerArc,Los Angeles,HR,,,2023-01-06,Private Equity,United States,30
+HumanForest,London,Transportation,,,2020-09-25,Private Equity,United Kingdom,1.54
+Menulog,Sydney,Food,,,2022-11-24,Acquired,Australia,
+Casper,New York City,Retail,,,2021-09-14,Post-IPO,United States,339
+Truckstop.com,Boise,Logistics,,,2023-03-02,Acquired,United States,
+Studio,SF Bay Area,Education,,,2022-11-03,Series B,United States,50
+LinkedIn,SF Bay Area,HR,,,2023-02-13,Acquired,United States,154
+Levelset,New Orleans,Construction,,,2020-04-01,Series C,United States,46
+Snaptravel,Toronto,Travel,,,2020-07-16,Series A,Canada,22.4
+Genius,New York City,Consumer,,,2021-09-15,Acquired,United States,78
+Clumio,SF Bay Area,Data,,,2021-03-01,Series C,United States,186
+Mavenir,Dallas,Infrastructure,,,2023-01-18,Acquired,United States,854
+Zerto,Boston,Infrastructure,,,2020-03-31,Series E,United States,130
+CoSchedule,Bismarck,Marketing,,,2023-01-13,Unknown,United States,2
+Grailed,New York City,Retail,,,2020-04-16,Series A,United States,16
+SpotHero,Chicago,Transportation,,,2020-03-24,Series D,United States,117
+IAM Robotics,Pittsburgh,Hardware,,,2023-01-19,Unknown,United States,21
+Criteo,Paris,Marketing,,,2023-02-21,Post-IPO,France,61
+Cazoo,London,Transportation,,,2023-01-18,Post-IPO,United Kingdom,2000
+Talkdesk,SF Bay Area,Support,,,2023-02-02,Series D,United States,497
+Talkdesk,SF Bay Area,Support,,,2022-08-05,Series D,United States,497
+Handshake,SF Bay Area,Recruiting,,,2020-05-05,Series C,United States,74
+Feather,New York City,Retail,,,2022-06-24,Unknown,United States,76
+CrowdRiff,Toronto,Marketing,,,2020-04-16,Series A,Canada,11
+Divvy,Salt Lake City,Finance,,,2020-05-19,Series C,United States,252
+RainFocus,Salt Lake City,Marketing,,,2020-04-07,Private Equity,United States,41
+Atome,Singapore,Finance,,,2022-10-06,Unknown,Singapore,645
+Mapify,Berlin,Travel,,,2020-08-19,Seed,Germany,1.3
+People.ai,SF Bay Area,Sales,,,2022-07-22,Series D,United States,200
+Pivot3,Austin,Infrastructure,,,2020-03-27,Series H,United States,273
+Metaplex,Chicago,Crypto,,,2022-11-18,Unknown,United States,
+Clubhouse,SF Bay Area,Consumer,,,2022-06-03,Series C,United States,110
+Slice Labs,New York City,Finance,,,2020-04-08,Series A,United States,35
+Bcredi,Curitiba,Finance,,,2020-03-27,Series A,Brazil,
+TenureX,Tel Aviv,Finance,,,2023-02-06,Seed,Israel,6
+Smarsh,Portland,Other,,,2022-07-21,Private Equity,United States,
+FireHydrant,New York City,Infrastructure,,,2022-12-08,Series B,United States,32
+Olist,Curitiba,Retail,,,2023-01-30,Series E,Brazil,322
+Olist,Curitiba,Retail,,,2022-05-23,Series E,Brazil,322
+Airtasker,Sydney,Consumer,,,2022-07-04,Series C,Australia,26
+Motional,Boston,Transportation,,,2022-11-30,Unknown,United States,
+Cheetah,SF Bay Area,Food,,,2020-10-25,Series B,United States,67
+Proton.ai,Boston,Sales,,,2022-11-29,Series A,United States,20
+Universal Standard,New York City,Retail,,,2020-03-25,Series A,United States,8
+Sweetgreen,Los Angeles,Food,,,2022-08-09,Post-IPO,United States,478
+Flash Coffee,Singapore,Food,,,2022-11-22,Series B,Singapore,57
+Terminus,Atlanta,Marketing,,,2022-05-27,Series C,United States,120
+Terminus,Atlanta,Marketing,,,2022-05-27,Unknown,United States,192
+Cuyana,SF Bay Area,Retail,,,2020-03-30,Series C,United States,31
+Give Legacy,Boston,Healthcare,,,2022-06-24,Series B,United States,45
+Byton,SF Bay Area,Transportation,,,2020-06-27,Series C,United States,1200
+InVision,New York City,Product,,,2020-08-14,Series F,United States,350.2
+Brainbase,Los Angeles,Sales,,,2022-07-28,Series A,United States,12
+Swing Education,SF Bay Area,Education,,,2020-09-05,Series B,United States,22.8
+Huawei,Shenzen,Hardware,,,2022-10-16,Unknown,China,
+Convoy,Seattle,Logistics,,,2022-10-25,Series E,United States,1100
+Venafi,Salt Lake City,Security,,,2022-11-30,Acquired,United States,167
+VanHack,Vancouver,HR,,,2022-10-11,Seed,United States,
+Pix,SF Bay Area,Food,,,2022-08-24,Unknown,United States,
+Cart.com,Austin,Retail,,,2023-01-10,Unknown,United States,383
+CipherTrace,SF Bay Area,Crypto,,,2020-04-09,Unknown,United States,18
+Wonder,New York City,Other,,,2020-04-02,Unknown,United States,
+Coursera,SF Bay Area,Education,,,2022-11-09,Post-IPO,United States,458
+Defined.ai,Seattle,Data,,,2022-02-07,Series B,United States,78
+Make School,SF Bay Area,Education,,,2020-03-27,Unknown,United States,
+Zwift,Los Angeles,Fitness,,,2020-03-23,Series B,United States,164
+Natera,SF Bay Area,Healthcare,,,2022-11-22,Post-IPO,United States,809
+FullStory,Atlanta,Marketing,,,2020-04-16,Series C,United States,59
+SquadVoice,Columbus,Real Estate,,,2020-04-16,Series A,United States,2
+Capiter,Cairo,Finance,,,2022-09-09,Series A,Egypt,33
+Desktop Metal,Boston,Other,,,2023-02-02,Post-IPO,United States,811
+Desktop Metal,Boston,Other,,,2020-04-28,Series E,United States,436
+Carvana,Phoenix,Transportation,,,2023-01-13,Post-IPO,United States,1600
+Hopper,Boston,Travel,,,2020-04-06,Series D,United States,183
+Finastra,Tel Aviv,Finance,,,2023-01-25,Unknown,Israel,
+ZenBusiness,Austin,Other,,,2022-11-10,Series C,United States,277
+CloudKitchens,Los Angeles,Real Estate,,,2022-11-03,Unknown,United States,1300
+Arrival,London,Transportation,,,2022-10-20,Post-IPO,United Kingdom,629
+Spotify,Stockholm,Media,,,2022-10-06,Post-IPO,Sweden,2100
+Spotify,Stockholm,Media,,,2022-11-09,Post-IPO,Sweden,2100
+HopSkipDrive,Los Angeles,Transportation,,,2020-08-12,Unknown,United States,45
+Omnipresent,London,HR,,,2023-02-01,Series B,United States,137
+Rapyd,Tel Aviv,Finance,,,2022-11-22,Unknown,Israel,770
+FutureLearn,London,Education,,,2022-11-28,Unknown,United Kingdom,50
+Updater,New York City,Other,,,2022-08-16,Unknown,United States,467
+Graphcore,Bristol,Data,,,2022-09-27,Unknown,United Kingdom,692
+Workfront,Salt Lake City,Marketing,,,2020-05-14,Series C,United States,375
+PowerReviews,Chicago,Retail,,,2020-04-23,Acquired,United States,78
+Fandom,SF Bay Area,Media,,,2023-01-19,Series E,United States,145
+DeHaat,Gurugram,Food,,,2022-08-01,Series D,India,194
+Lenovo,Raleigh,Hardware,,,2022-12-08,Post-IPO,United States,850
+CircleUp,SF Bay Area,Finance,,,2022-07-13,Series C,United States,53
+Vox Media,Washington D.C.,Media,,,2020-07-14,Series F,United States,307.6
+StreamSets,SF Bay Area,Data,,,2020-08-20,Series C,United States,76.2
+Filevine,Salt Lake City,Legal,,,2022-12-06,Series D,United States,226
+Crehana,Lima,Education,,,2022-06-15,Series B,Peru,93
+GOAT Group,Los Angeles,Retail,,,2020-04-01,Series D,United States,197
+Zinier,SF Bay Area,HR,,,2020-11-25,Series C,United States,120
+Tencent,Shenzen,Consumer,,,2022-11-15,Post-IPO,China,12600
+Mews,Prague,Travel,,,2020-04-03,Series B,Czech Republic,41
+Lazerpay,Lagos,Crypto,,,2022-11-29,Unknown,Nigeria,
+Health IQ,SF Bay Area,Healthcare,,,2022-12-19,Series D,United States,136
+Convoy,Atlanta,Logistics,,,2023-02-16,Series E,United States,1100
+Currency,Los Angeles,Finance,,,2020-04-01,Unknown,United States,
+Fishbrain,Stockholm,Consumer,,,2023-01-17,Unknown,United States,59
+Alegion,Austin,Data,,,2020-04-03,Series A,United States,16
+ThoughtSpot,SF Bay Area,Data,,,2020-05-06,Series E,United States,743
+Tuft & Needle,Phoenix,Retail,,,2020-03-19,Acquired,United States,0
+Help Scout,Boston,Support,,,2022-11-01,Series B,United States,28
+Oyster,Charlotte,HR,,,2023-01-11,Series C,United States,224
+Oyster,Charlotte,HR,,,2023-01-30,Series C,United States,224
+Microsoft,Seattle,Other,,,2022-10-17,Post-IPO,United States,1
+Microsoft,Seattle,Other,,,2022-07-12,Post-IPO,United States,1
+Provi,Chicago,Food,,,2022-11-03,Series C,United States,150
+Lytics,Portland,Marketing,,,2020-04-08,Series C,United States,58
+Zenjob,Berlin,HR,,,2022-09-29,Series D,Germany,107
+Akerna,Denver,Logistics,,,2022-05-27,Unknown,United States,46
+Akerna,Denver,Logistics,,,2020-09-02,Post-IPO,United States,
+Cosuno,Berlin,Construction,,,2022-07-14,Series B,Germany,45
+Zappos,Las Vegas,Retail,,,2023-01-20,Acquired,United States,62
+Quora,SF Bay Area,Consumer,,,2023-01-26,Series D,United States,226
+Zywave,Milwaukee,Finance,,,2022-12-07,Acquired,United States,
+OnlyFans,London,Media,,,2022-08-01,Unknown,United Kingdom,
+Keepe,Seattle,Real Estate,,,2022-06-10,Unknown,United States,6
+Flipkart,Bengaluru,Retail,,,2023-03-02,Acquired,India,12900
+Accolade,Seattle,Healthcare,,,2023-03-03,Post-IPO,United States,458
+Ledn,Toronto,Crypto,,,2022-11-28,Series B,Canada,103
+Typeform,Barcelona,Marketing,,,2022-11-15,Series C,Spain,187
+Bybit,Singapore,Crypto,,,2022-06-20,Unknown,Singapore,
+Influitive,Toronto,Marketing,,,2020-04-17,Unknown,Canada,59
+Otonomo,Tel Aviv,Transportation,,,2022-08-28,Post-IPO,Israel,231
+Tempo,SF Bay Area,Fitness,,,2022-10-03,Series C,United States,298
+Arch Oncology,St. Louis,Healthcare,,,2023-02-22,Series C,United States,155
+Remesh,New York City,Support,,,2022-07-01,Series A,United States,38
+Icon,Austin,Construction,,,2023-01-24,Series B,United States,451
+GSR,Hong Kong,Crypto,,,2022-10-11,Unknown,Hong Kong,
+Thinkific,Vancouver,Education,,,2022-12-05,Post-IPO,Canada,22
+Moove,Lagos,Transportation,,,2022-12-06,Unknown,Nigeria,630
+Candidate Labs,SF Bay Area,HR,,,2022-09-21,Seed,United States,5
+Tripwire,Portland,Security,,,2022-05-12,Acquired,United States,29
+CoinFLEX,Victoria,Crypto,,,2022-07-29,Unknown,Seychelles,11
+Kogan,Melbourne,Retail,,,2022-08-23,Post-IPO,Australia,
+Inspectify,Seattle,Real Estate,,,2022-11-28,Series A,United States,11
+Observe.AI,SF Bay Area,Support,,,2023-02-15,Series C,United States,214
+Divvy Homes,SF Bay Area,Real Estate,,,2023-02-15,Series B,United States,180
+Zulily,Seattle,Retail,,,2022-05-16,Acquired,United States,194
+PeerStreet,Los Angeles,Real Estate,,,2023-02-21,Series C,United States,121
+Caribou,Washington D.C.,Finance,,,2022-12-12,Series C,United States,189
+Shopee,Jakarta,Food,,,2022-11-14,Unknown,Indonesia,
+Shopee,Jakarta,Food,,,2022-09-18,Unknown,Indonesia,
+Mindgeek,Luxembourg,Media,,,2022-06-22,Unknown,Luxembourg,
+Slync,Dallas,Logistics,,,2022-08-05,Series B,United States,76
+Cohesity,SF Bay Area,Data,,,2020-04-30,Series E,United States,660
+Ada,Toronto,Support,,,2023-02-01,Series C,Canada,190
+Snagajob,Richmond,HR,,,2022-08-31,Unknown,United States,221
+Signicat,Trondheim,Security,,,2022-11-02,Acquired,Norway,8
+Perkbox,London,HR,,,2020-07-27,Unknown,United Kingdom,29.7
+Adara,SF Bay Area,Travel,,,2020-03-31,Series C,United States,67
+Snap Finance,Salt Lake City,Finance,,,2020-03-31,Unknown,United States,
+Convene,New York City,Real Estate,,,2022-12-10,Unknown,United States,281
+C6 Bank,Sao Paulo,Finance,,,2023-02-06,Unknown,Brazil,2300
+Coda,SF Bay Area,Other,,,2023-01-18,Series D,United States,240
+Quillt,St. Louis,Media,,,2023-02-09,Unknown,United States,
+Modsy,SF Bay Area,Retail,,,2020-04-02,Series C,United States,70
+Modsy,SF Bay Area,Retail,,,2022-06-29,Series C,United States,72
+Flynote,Bengaluru,Travel,,,2020-05-01,Seed,India,1
+Foodpanda,Singapore,Food,,,2023-02-13,Acquired,Singapore,749
+Liongard,Houston,Infrastructure,,,2022-06-10,Series B,United States,22
+Clever Real Estate,St. Louis,Real Estate,,,2022-10-19,Series B,United States,13
+Clever Real Estate,St. Louis,Real Estate,,,2020-03-25,Series A,United States,5
+BUX,Amsterdam,Finance,,,2023-01-22,Series C,Netherlands,115
+XP,Sao Paulo,Finance,,,2023-01-17,Post-IPO,Brazil,
+Landing,Birmingham,Real Estate,,,2022-12-14,Series C,United States,347
+Noom,New York City,Fitness,,,2023-01-25,Series F,United States,657
+AirMap,Los Angeles,Aerospace,,,2020-04-30,Unknown,United States,75
+Hired,SF Bay Area,Recruiting,,,2020-06-30,Series D,United States,132
+Chef,Seattle,Infrastructure,,,2020-10-08,Acquired,United States,105
+Esme Learning,Boston,Education,,,2022-06-02,Unknown,United States,37
+Open Co,Sao Paulo,Finance,,,2023-02-10,Series D,Brazil,140
+Nextbite,Denver,Food,,,2022-07-09,Series C,United States,150
+Ruangguru,Jakarta,Education,,,2022-11-18,Unknown,Indonesia,205
+Route,Lehi,Retail,,,2022-12-05,Unknown,United States,481
+tZero,New York City,Finance,,,2020-07-30,Acquired,United States,472
+Decent,SF Bay Area,Healthcare,,,2023-01-27,Series A,United States,18
+Classkick,Chicago,Education,,,2022-08-01,Seed,United States,1
+FloQast,Los Angeles,Finance,,,2020-04-10,Series C,United States,119
+Zalando,Berlin,Retail,,,2023-02-21,Post-IPO,Germany,467
+Zilch,London,Finance,,,2022-11-26,Unknown,United Kingdom,389
+Beat,Athens,Transportation,,,2022-11-08,Series B,Greece,6
+Religion of Sports,Los Angeles,Media,,,2023-02-15,Series B,United States,63
+Whereby,Oslo,Other,,,2022-08-01,Series A,Norway,10
+Sama,SF Bay Area,Data,,,2022-09-12,Series B,United States,84
+Skillshare,New York City,Education,,,2022-08-23,Unknown,United States,136
+Mapbox,Washington D.C.,Data,,,2020-04-06,Series C,United States,227
+Kavak,Sao Paulo,Transportation,,,2022-11-18,Series E,Brazil,1600
+Infogrid,London,Other,,,2022-11-16,Series A,United Kingdom,15
+Elemy,SF Bay Area,Healthcare,,,2022-12-05,Series B,United States,323
+Elemy,SF Bay Area,Healthcare,,,2022-07-18,Series B,United States,323
+Crypto.com,Singapore,Crypto,,,2022-08-16,Unknown,Singapore,156
+Green Labs,Seoul,Food,,,2023-02-21,Series C,South Korea,214
+GoCardless,London,Finance,,,2020-04-24,Series E,United Kingdom,122
+PharmEasy,Mumbai,Healthcare,,,2022-12-10,Unknown,India,1600
+LumenAd,Missoula,Marketing,,,2020-04-16,Unknown,United States,
+Food52,New York City,Food,,,2020-04-17,Acquired,United States,96
+Better.com,New York City,Real Estate,,,2022-04-19,Unknown,United States,905
+Better.com,New York City,Real Estate,,,2022-08-26,Unknown,United States,905
+Claravine,Salt Lake City,Marketing,,,2020-03-31,Seed,United States,4
+E Inc.,Toronto,Transportation,,,2022-12-16,Post-IPO,Canada,
+Outdoorsy,SF Bay Area,Transportation,,,2020-06-04,Series C,United States,75
+BetterCloud,New York City,Security,,,2020-05-13,Series E,United States,111
+SumUp,London,Finance,,,2021-05-05,Unknown,United Kingdom,53
+Getir,London,Food,,,2023-02-13,Series E,United Kingdom,1800
+RateGenius,Austin,Finance,,,2023-01-17,Acquired,United States,2
+Bond,SF Bay Area,Finance,,,2022-06-07,Series A,United States,42
+Autograph,Los Angeles,Crypto,,,2022-12-16,Series B,United States,205
+Juniper,Atlanta,Marketing,,,2022-11-11,Acquired,United States,
+Emitwise,London,Energy,,,2022-10-11,Series A,United Kingdom,16
+Autobooks,Detroit,Finance,,,2022-12-10,Series C,United States,97
+Cheddar,New York City,Media,,,2020-04-24,Acquired,United States,54
+Oracle,SF Bay Area,Other,,,2023-01-17,Post-IPO,United States,
+Oracle,SF Bay Area,Other,,,2022-08-01,Post-IPO,United States,
+Instacart,SF Bay Area,Food,,,2022-09-24,Unknown,United States,2900
+Firebolt,Tel Aviv,Data,,,2022-09-07,Series C,Israel,264
+CyberCube,SF Bay Area,Finance,,,2022-06-07,Series B,United States,35
+Tempus Ex,SF Bay Area,Data,,,2022-05-30,Unknown,United States,36
+Clearbit,SF Bay Area,Data,,,2020-04-22,Series A,United States,17
+OYO,Dallas,Travel,,,2020-06-24,Series F,United States,3200
+Spaces,Los Angeles,Media,,,2020-08-24,Acquired,United States,9.5
+Sift,SF Bay Area,Security,,,2020-05-14,Series D,United States,106
+Feedzai,Coimbra,Finance,,,2023-01-27,Unknown,Portugal,273
+Spring,SF Bay Area,Retail,,,2022-07-12,Unknown,United States,61
+Bikayi,Bengaluru,Retail,,,2022-07-28,Series A,India,12
+League,Toronto,Healthcare,,,2020-05-05,Unknown,Canada,76
+Anyvision,Tel Aviv,Security,,,2020-03-19,Series A,Israel,74
+DataRobot,Boston,Data,,,2022-08-08,Series G,United States,1000
+Nate,New York City,Retail,,,2023-01-27,Series A,United States,47
+Bitfarms,Quebec,Crypto,,,2020-04-06,Post-IPO,Canada,25
+Pinterest,SF Bay Area,Consumer,,,2022-11-30,Post-IPO,United States,1500
+Rent the Runway,New York City,Retail,,,2020-03-28,Series F,United States,541
+Carbon,SF Bay Area,Hardware,,,2022-10-26,Series E,United States,683
+Rain,Manama,Finance,,,2022-06-02,Series B,Bahrain,202
+CarDekho,Gurugram,Transportation,,,2022-08-03,Series E,India,497
+Checkmarx,Tel Aviv,Security,,,2020-05-18,Acquired,Israel,92
+Spreetail,Austin,Retail,,,2022-10-27,,United States,
+Cypress.io,Atlanta,Product,,,2023-01-18,Series B,United States,54
+Imperfect Foods,SF Bay Area,Food,,,2021-09-22,Series D,United States,229
+Tapas Media,SF Bay Area,Media,,,2022-07-28,Acquired,United States,17
+Indigo,Boston,Other,,,2023-03-03,Series F,United States,1200
+Pared,SF Bay Area,Food,,,2020-07-29,Unknown,United States,13
+PeopleGrove,SF Bay Area,HR,,,2020-04-03,Series A,United States,7
+StubHub,SF Bay Area,Consumer,,,2022-08-04,Acquired,United States,59
+Perx Health,Sydney,Healthcare,,,2022-07-02,Seed,Australia,2
+Petal,New York City,Finance,,,2020-05-12,Series B,United States,47
+Petal,New York City,Finance,,,2022-08-18,Series D,United States,704
+Amobee,SF Bay Area,Marketing,,,2022-11-09,Acquired,United States,72
+Twitter,SF Bay Area,Consumer,,,2022-07-07,Post-IPO,United States,5700
+Subspace,Los Angeles,Infrastructure,,,2021-03-03,Series B,United States,
+Front,SF Bay Area,Support,,,2022-09-28,Series D,United States,203
+Chipax,Santiago,Finance,,,2022-11-11,Seed,Chile,2
+Almanac,SF Bay Area,Other,,,2022-08-13,Series A,United States,45
+CreateMe,SF Bay Area,Manufacturing,,,2023-01-06,Unknown,United States,
+Clearco,Dublin,Finance,,,2022-06-06,Series C,Ireland,681
+Shopee,Singapore,Food,,,2022-06-14,Unknown,Singapore,
+Cerebral,SF Bay Area,Healthcare,,,2022-05-31,Series C,United States,462
+Capillary,Bengaluru,Retail,,,2020-04-02,Private Equity,India,102
+Shift,SF Bay Area,Transportation,,,2022-08-09,Post-IPO,United States,504
+Viamo,Accra,Other,,,2022-08-31,Unknown,Ghana,
+Addi,Bogota,Finance,,,2022-06-14,Series C,Colombia,376
+Trivago,Dusseldorf,Travel,,,2020-05-04,Acquired,Germany,55
+iFit,Logan,Fitness,,,2021-12-08,Private Equity,United States,200
+iFit,Logan,Fitness,,,2022-02-25,Private Equity,United States,200
+Igenous,Seattle,Data,,,2020-11-17,Series C,United States,67
+Secfi,SF Bay Area,Finance,,,2022-06-30,Series A,United States,7
+FuboTV,New York City,Media,,,2022-08-02,Post-IPO,United States,151
+100 Thieves,Los Angeles,Retail,,,2023-01-10,Series C,United States,120
+SoFi,SF Bay Area,Finance,,,2023-01-30,Post-IPO,United States,3000
+Spaceship,Sydney,Finance,,,2023-01-19,Series A,Australia,41
+Mural,SF Bay Area,Product,,,2022-07-21,Series C,United States,192
+Practically,Hyderabad,Education,,,2022-11-06,Unknown,India,14
+CommentSold,Huntsville,Retail,,,2022-06-29,Unknown,United States,
+Motif Foodworks,Boston,Food,,,2022-07-06,Series B,United States,344
+Xiaomi,Beijing,Consumer,,,2022-12-19,Post-IPO,United States,7400
+N-able Technologies,Raleigh,Other,,,2022-12-09,Post-IPO,United States,225
+DJI,Shenzen,Consumer,,,2020-08-17,Unknown,China,105
+Digimarc,Portland,Other,,,2023-02-17,Post-IPO,United States,105
+Zomato,Jakarta,Food,,,2020-10-20,Series J,Indonesia,914
+ExtraHop,Seattle,Security,,,2022-10-13,Series C,United States,61
+ExtraHop,Seattle,Security,,,2020-04-22,Series C,United States,61
+Automox,Boulder,Infrastructure,,,2022-06-13,Series C,United States,152
+Thrasio,Boston,Retail,,,2022-05-02,Unknown,United States,3400
+Sea,Singapore,Consumer,,,2022-09-02,Post-IPO,Singapore,8600
+CareRev,Los Angeles,Retail,,,2023-01-25,Series A,United States,51
+DreamBox Learning,Seattle,Education,,,2022-09-09,Acquired,United States,175
+TikTok,Los Angeles,Consumer,,,2023-01-20,Acquired,United States,
+TikTok,Los Angeles,Consumer,,,2022-07-18,Acquired,United States,
+Side,SF Bay Area,Real Estate,,,2022-10-19,Unknown,United States,313
+Medium,SF Bay Area,Media,,,2021-03-24,Series C,United States,132
+Wizeline,SF Bay Area,Product,,,2022-07-22,Acquired,United States,62
+Morning Consult,Washington D.C.,Data,,,2023-01-20,Series B,United States,91
+Arete,Miami,Security,,,2022-07-22,Unknown,United States,
+RedDoorz,Singapore,Travel,,,2020-04-14,Series C,Singapore,134
+Compass,New York City,Real Estate,,,2023-01-05,Post-IPO,United States,1600
+MissFresh,Beijing,Food,,,2022-07-29,Post-IPO,China,1700
+Apeel Sciences,Santa Barbara,Food,,,2022-07-11,Series E,United States,640
+Zest AI,Los Angeles,Finance,,,2020-04-09,Unknown,United States,217
+Reserve,SF Bay Area,Crypto,,,2023-02-17,Unknown,United States,
+Scoop,SF Bay Area,Transportation,,,2020-11-17,Series C,United States,95
+DayTwo,SF Bay Area,Healthcare,,,2022-09-15,Series B,United States,90
+LetsGetChecked,New York City,Healthcare,,,2022-07-02,Series D,United States,263
+Century Therapeutics,Philadelphia,Healthcare,,,2023-01-09,Post-IPO,United States,560
+TheWrap,Los Angeles,Media,,,2020-09-29,Series B,United States,3.5
+View,SF Bay Area,Energy,,,2020-04-15,Series H,United States,1800
+Utopia Music,Zug,Media,,,2022-11-24,Series B,Switzerland,
+Owlet,Lehi,Healthcare,,,2022-07-22,Post-IPO,United States,178
+Rappi,Buenos Aires,Food,,,2023-01-17,Unknown,Argentina,2300
+TechAdvance,Lagos,Finance,,,2020-04-08,Unknown,Nigeria,1
+GoCanvas,Washington D.C.,Other,,,2023-01-13,Acquired,United States,21
+Megaport,Brisbane,Infrastructure,,,2023-01-05,Post-IPO,Australia,98
+Reforge,SF Bay Area,Education,,,2022-11-10,Series B,United States,81
+DJI,SF Bay Area,Consumer,,,2021-02-24,Unknown,United States,105
+Realtor.com,SF Bay Area,Real Estate,,,2022-09-08,Acquired,United States,
+Mark43,New York City,Other,,,2022-06-23,Series E,United States,229
+Oatly,Malmö,Food,,,2022-11-15,Post-IPO,Sweden,441
+Singular,SF Bay Area,Marketing,,,2020-04-23,Series B,United States,50
+Collibra,Brussels,Data,,,2022-10-19,Series G,Belgium,596
+Sprinklr,New York City,Support,,,2020-06-25,Series F,United States,228
+OnDeck,New York City,Finance,,,2020-07-08,Post-IPO,United States,1200
+Avalara,Seattle,Finance,,,2023-01-20,Acquired,United States,341
+Xsight Labs,Tel Aviv,Other,,,2022-09-07,Series D,Israel,100
+Cloudera,SF Bay Area,Infrastructure,,,2020-05-05,Post-IPO,United States,1000

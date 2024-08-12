@@ -1,4 +1,4 @@
-# World Layoffs Data Cleaning Workflow
+# Data Cleaning with Alteryx
 
 ## Overview
 
